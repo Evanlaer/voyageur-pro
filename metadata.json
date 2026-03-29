@@ -1,0 +1,5 @@
+{
+  "name": "Voyageur Pro",
+  "description": "Planificateur de voyage intelligent créant des catalogues personnalisés et attrayants.",
+  "requestFramePermissions": ["geolocation"]
+}
